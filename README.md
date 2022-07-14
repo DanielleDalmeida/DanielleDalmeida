@@ -1,7 +1,8 @@
 , ### Hi there 👋, I'm Danielle D'Almeida
 
-- 🔭 I’m currently working on  na Sumus Informática como Analista de Gestão de Contas Jr.
-- 🌱 I’m currently learning  PYTHON
+- 🔭 I’m currently working at Sumus Informática as a Junior Account Management Analyst.
+- 🌱 I currently have knowledge with PYTHON, VBA, POWER BI.
+- 🌱 I’m currently learning  MACHINE LEARNING.
 - 📫 How to reach me: danielle0990@hotmail.com
 
 <div align="center">
