@@ -1,6 +1,6 @@
 , ### Hi there 👋, I'm Danielle D'Almeida
 
-- 🔭 I’m currently working at Sumus Informática as a Junior Account Management Analyst.
+- 🔭 I’m currently working at Continental as trainee strategic planning.
 - 🌱 I currently have knowledge with PYTHON, VBA, POWER BI.
 - 🌱 I’m currently learning  MACHINE LEARNING.
 - 📫 How to reach me: danielle0990@hotmail.com
@@ -16,7 +16,7 @@
   
   ##
 
-<a href="https://www.linkedin.com/in/danielle-sousa-84a974101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://https://www.linkedin.com/in/danielle-d-almeida-84a974101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
